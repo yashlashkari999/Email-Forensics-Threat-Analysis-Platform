@@ -1,0 +1,10 @@
+
+reflex[db]==0.9.11.post1
+fastapi
+mail-parser
+python-multipart
+dnspython
+checkdmarc
+reportlab
+reflex-enterprise
+xy[reflex]==0.0.7
